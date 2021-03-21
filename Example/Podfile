@@ -1,0 +1,6 @@
+use_frameworks!
+target 'HRObjc_kook_Tests' do
+  pod 'HRObjc_kook', :path => '../'
+  
+  
+end
