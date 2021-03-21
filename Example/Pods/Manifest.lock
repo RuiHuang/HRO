@@ -1,0 +1,16 @@
+PODS:
+  - HRObjc_kook (0.1.0)
+
+DEPENDENCIES:
+  - HRObjc_kook (from `../`)
+
+EXTERNAL SOURCES:
+  HRObjc_kook:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HRObjc_kook: a91aa76d9eb00c10d2fe46e6b86da73f52155015
+
+PODFILE CHECKSUM: c8acbec4e182d62d21478c5059b0e732c4b3d6f5
+
+COCOAPODS: 1.10.0

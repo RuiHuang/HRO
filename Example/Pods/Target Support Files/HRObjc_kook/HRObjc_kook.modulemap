@@ -1,0 +1,6 @@
+framework module HRObjc_kook {
+  umbrella header "HRObjc_kook-umbrella.h"
+
+  export *
+  module * { export * }
+}

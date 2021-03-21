@@ -1,0 +1,22 @@
+{
+  "name": "HRObjc_kook",
+  "version": "0.1.0",
+  "summary": "A short description of HRObjc_kook.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/huangruicheerup@163.com/HRObjc_kook",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "huangruicheerup@163.com": "wangyang@blued.com"
+  },
+  "source": {
+    "git": "https://github.com/huangruicheerup@163.com/HRObjc_kook.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "HRObjc_kook/Classes/**/*"
+}
